@@ -1,3 +1,7 @@
+// Do not change this file!
+// You want these tests to pass by modifying skiClubber.js
+// To run the tests, simply open SpecRunner.html in a browser
+
 describe("SkiClubber", function () {
 
     var hammer = new SkiClubber("Hammer");
